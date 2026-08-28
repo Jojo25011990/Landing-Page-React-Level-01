@@ -74,7 +74,7 @@ const TestimonialsSection = () => {
 						</p>
 						<a
 							href="#contact"
-							className="inline-block bg-white text-zinc-900 hover:bg-zinc-100 active:bg-zinc-100 transition-colors duration-300 px-8 py-3.5 rounded-full font-bold cta-button"
+							className="inline-block bg-white text-zinc-900 px-8 py-3.5 rounded-full font-bold cta-button"
 						>
 							Get started free
 						</a>
