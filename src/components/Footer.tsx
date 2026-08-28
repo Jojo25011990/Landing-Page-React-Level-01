@@ -71,7 +71,8 @@ const Footer = () => {
 						<ul className="flex gap-5">
 							<li>
 								<a
-									href="#"
+									href="https://github.com/Jojo25011990"
+									target="_blank"
 									className="hover:text-zinc-400 active:text-zinc-400 transition-colors duration-200"
 								>
 									Github
@@ -79,7 +80,8 @@ const Footer = () => {
 							</li>
 							<li>
 								<a
-									href="#"
+									href="https://www.linkedin.com/in/jozef-kudrna-28b580295/"
+									target="_blank"
 									className="hover:text-zinc-400 active:text-zinc-400 transition-colors duration-200"
 								>
 									Linkedin
@@ -87,7 +89,8 @@ const Footer = () => {
 							</li>
 							<li>
 								<a
-									href="#"
+									href="https://www.instagram.com/web.animations.and.effects/"
+									target="_blank"
 									className="hover:text-zinc-400 active:text-zinc-400 transition-colors duration-200"
 								>
 									Instagram
