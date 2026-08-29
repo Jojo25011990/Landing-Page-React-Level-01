@@ -13,7 +13,7 @@ const Footer = () => {
 			<div className="max-w-6xl mx-auto">
 				<div className="grid grid-cols-1 justify-items-center md:justify-items-stretch md:grid-cols-4 gap-10 mb-14">
 					{/* Brand Content */}
-					<div className="col-span-1 text-center md:col-span-1 md:text-left">
+					<div className="text-center md:col-span-1 md:text-left">
 						<a
 							href="#"
 							className="text-xl font-bold pb-6 flex justify-center md:justify-self-start"
